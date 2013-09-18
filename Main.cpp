@@ -6,8 +6,10 @@
 // MAIN
 int main() {
 	//Load_Image();
-	Load_Video();
+	//Load_Video();
 	//DetectFace();
+	//Remap();
+	Remap_Video();
 
 	// Smoothing Images
 	//HomogeneousBlur();

@@ -1,6 +1,8 @@
 #include "opencv2/highgui/highgui.hpp"
 #include "opencv2/contrib/contrib.hpp"
-
+#include "opencv2/imgproc/imgproc.hpp"
+#include <iostream>
+#include <stdio.h>
 using namespace cv;
 
 int Load_Image() {	
@@ -67,7 +69,6 @@ int Eroding() {
 	Mat src = imread("C:/Users/Chochstr/Pictures/Beau J. Hochstrasser/DSC_0108.jpg",1);
 	imshow("Eroding-in", src);
 	Mat dst = src.clone();
-	int erosion_type;
 	Mat element = getStructuringElement(MORPH_RECT,Size(33,33),Point(-1,-1));
 	erode(src,dst,element);
 	imshow("Eroding-out", dst);
@@ -81,7 +82,6 @@ int Dilating() {
 	Mat src = imread("C:/Users/Chochstr/Pictures/Beau J. Hochstrasser/DSC_0108.jpg",1);
 	imshow("Dilating-in", src);
 	Mat dst = src.clone();
-	int erosion_type;
 	Mat element = getStructuringElement(MORPH_RECT,Size(33,33),Point(-1,-1));
 	dilate(src,dst,element);
 	imshow("Dilating-out", dst);
@@ -95,7 +95,6 @@ int	Morph_Open() {
 	Mat src = imread("C:/Users/Chochstr/Pictures/Beau J. Hochstrasser/DSC_0108.jpg",1);
 	imshow("Open-in", src);
 	Mat dst = src.clone();
-	int erosion_type;
 	Mat element = getStructuringElement(MORPH_RECT,Size(33,33),Point(-1,-1));
 	morphologyEx(src,dst,2,element);
 	imshow("Open-out", dst);
@@ -109,7 +108,6 @@ int	Morph_Close() {
 	Mat src = imread("C:/Users/Chochstr/Pictures/Beau J. Hochstrasser/DSC_0108.jpg",1);
 	imshow("Close-in", src);
 	Mat dst = src.clone();
-	int erosion_type;
 	Mat element = getStructuringElement(MORPH_RECT,Size(33,33),Point(-1,-1));
 	morphologyEx(src,dst,3,element);
 	imshow("Close-out", dst);
@@ -123,7 +121,6 @@ int	Morph_Gradient() {
 	Mat src = imread("C:/Users/Chochstr/Pictures/Beau J. Hochstrasser/DSC_0108.jpg",1);
 	imshow("Gradient-in", src);
 	Mat dst = src.clone();
-	int erosion_type;
 	Mat element = getStructuringElement(MORPH_RECT,Size(33,33),Point(-1,-1));
 	morphologyEx(src,dst,4,element);
 	imshow("Gradient-out", dst);
@@ -137,7 +134,6 @@ int	Morph_TopHat() {
 	Mat src = imread("C:/Users/Chochstr/Pictures/Beau J. Hochstrasser/DSC_0108.jpg",1);
 	imshow("TopHat-in", src);
 	Mat dst = src.clone();
-	int erosion_type;
 	Mat element = getStructuringElement(MORPH_RECT,Size(33,33),Point(-1,-1));
 	morphologyEx(src,dst,5,element);
 	imshow("TopHat-out", dst);
@@ -151,10 +147,33 @@ int	Morph_BlackHat() {
 	Mat src = imread("C:/Users/Chochstr/Pictures/Beau J. Hochstrasser/DSC_0108.jpg",1);
 	imshow("BlackHat-in", src);
 	Mat dst = src.clone();
-	int erosion_type;
 	Mat element = getStructuringElement(MORPH_RECT,Size(33,33),Point(-1,-1));
 	morphologyEx(src,dst,6,element);
 	imshow("BlackHat-out", dst);
+	waitKey(0);
+	return 0;
+}
+
+
+int Remap() {
+	Mat src, dst, map_x, map_y;
+	namedWindow("Inverse-in", CV_WINDOW_NORMAL);
+	namedWindow("Inverse-out", CV_WINDOW_NORMAL);
+	src = imread("C:/Users/Chochstr/Pictures/Beau J. Hochstrasser/DSC_0108.jpg",1);
+	resizeWindow("Inverse-in",480,480);
+	imshow("Inverse-in",src);
+	dst.create(src.size(), src.type());
+	map_x.create(src.size(), CV_32FC1);
+	map_y.create(src.size(), CV_32FC1);
+	for( int j = 0; j < src.rows; j++ ) {
+		for( int i = 0; i < src.cols; i++ ) {
+			map_x.at<float>(j,i) = src.cols - i;
+			map_y.at<float>(j,i) = j;
+		}
+	}
+	remap(src, dst, map_x, map_y, CV_INTER_LINEAR, BORDER_CONSTANT, Scalar(0,0,0));
+	resizeWindow("Inverse-out",480,480);
+	imshow("Inverse-out", dst);
 	waitKey(0);
 	return 0;
 }
