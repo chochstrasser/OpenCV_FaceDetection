@@ -6,10 +6,14 @@
 // MAIN
 int main() {
 	//Load_Image();
+	Image_Detect();
 	//Load_Video();
 	//DetectFace();
+	//FisherFace();
+	//LBPH_Face();
+	//Saving_Video_Capture();
 	//Remap();
-	Remap_Video();
+	//Remap_Video();
 
 	// Smoothing Images
 	//HomogeneousBlur();

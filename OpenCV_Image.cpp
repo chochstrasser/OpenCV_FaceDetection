@@ -1,8 +1,15 @@
-#include "opencv2/highgui/highgui.hpp"
+#include "opencv2/core/core.hpp"
 #include "opencv2/contrib/contrib.hpp"
+#include "opencv2/objdetect/objdetect.hpp"
+#include "opencv2/highgui/highgui.hpp"
 #include "opencv2/imgproc/imgproc.hpp"
+#include "opencv2/opencv.hpp"
 #include <iostream>
+#include <fstream>
+#include <sstream>
 #include <stdio.h>
+
+using namespace std;
 using namespace cv;
 
 int Load_Image() {	
@@ -176,4 +183,114 @@ int Remap() {
 	imshow("Inverse-out", dst);
 	waitKey(0);
 	return 0;
+}
+
+static void read_csv(const string& filename, vector<Mat>& images, vector<int>& labels, char separator = ';') {
+    ifstream file(filename.c_str(), ifstream::in);
+    if (!file) {
+        string error_message = "No valid input file was given, please check the given filename.";
+        CV_Error(CV_StsBadArg, error_message);
+    }
+    string line, path, classlabel;
+    while (getline(file, line)) {
+        stringstream liness(line);
+		line.erase( 0, line.find_first_of("C"));
+		path = line.substr(0, line.find(separator));
+		classlabel = line.substr(line.find(separator)+1,line.length());
+        if(!path.empty() && !classlabel.empty()) {
+            images.push_back( imread(path, CV_LOAD_IMAGE_GRAYSCALE) );
+            labels.push_back( atoi(classlabel.c_str()) );
+        }
+    }
+}
+
+Mat DetectFace(Mat);
+
+CascadeClassifier haar_cascade, haar_cascade2, haar_cascade3, haar_cascade4;
+string cascade_alt = "C:/Users/Chochstr/My Programs/opencv/data/haarcascades/haarcascade_frontalface_alt.xml";
+string cascade_alt2 = "C:/Users/Chochstr/My Programs/opencv/data/haarcascades/haarcascade_frontalface_alt2.xml";
+string cascade_default = "C:/Users/Chochstr/My Programs/opencv/data/haarcascades/haarcascade_frontalface_default.xml";
+string cascade_alt_tree = "C:/Users/Chochstr/My Programs/opencv/data/haarcascades/haarcascade_frontalface_alt_tree.xml";
+
+string Face_Profile_cascade_name = "C:/Users/Chochstr/My Programs/opencv/data/haarcascades/haarcascade_frontalface_alt.xml";
+string Eyes_cascade_name = "C:/Users/Chochstr/My Programs/opencv/data/haarcascades/haarcascade_frontalface_alt.xml";
+string Window_name = "Detect Face(s) in image";
+int im_width;
+int im_height;
+Ptr<FaceRecognizer> model;
+string file_csv = "C:/Users/Chochstr/Pictures/att_faces/Myfileslist.txt";
+vector<Mat> images;
+vector<int> labels;
+
+int Image_Detect() {	
+	//haar_cascade.load(cascade_alt);
+	haar_cascade2.load(cascade_alt2);
+	//haar_cascade3.load(cascade_default);
+	//haar_cascade4.load(cascade_alt_tree);
+	Mat frame;
+	string filename = "C:/Users/Chochstr/Pictures/faces.jpg";
+	while(1){
+		CvCapture* capture = cvCaptureFromCAM(0);
+		//frame = imread(filename);
+		frame = cvQueryFrame(capture);
+		Mat dst = DetectFace(frame);
+		namedWindow(Window_name, CV_WINDOW_NORMAL);
+		imshow(Window_name, dst);
+		char c = waitKey(1);
+		if (c==27) break;
+	}
+	return 0;
+}
+
+Mat DetectFace(Mat frame) {
+	Mat original = frame.clone();
+	Mat gray;
+	string text;
+	cvtColor(original, gray, CV_BGR2GRAY);
+	vector<Rect> faces, faces2, faces3, faces4;
+	//haar_cascade.detectMultiScale(gray, faces);
+	haar_cascade2.detectMultiScale(gray, faces2);
+	//haar_cascade3.detectMultiScale(gray, faces3);
+	//haar_cascade4.detectMultiScale(gray, faces4);
+	/*for(int i = 0; i < faces.size(); i++) {
+		Rect face_i = faces[i];
+		Mat face = gray(face_i);
+		Mat face_resized;
+		resize(face,face_resized,Size(im_width,im_height),1.0,1.0,INTER_CUBIC);
+		rectangle(original,face_i,CV_RGB(0,255,0),10);
+		int pos_x = max(face_i.tl().x - 10, 0);
+		int pos_y = max(face_i.tl().y - 10, 0);
+		putText(original,"",Point(pos_x,pos_y), FONT_HERSHEY_PLAIN,1.0,CV_RGB(0,255,0),2.0);
+	}*/
+	for(int i = 0; i < faces2.size(); i++) {
+		Rect face_i = faces2[i];
+		Mat face = gray(face_i);
+		Mat face_resized;
+		resize(face,face_resized,Size(im_width,im_height),1.0,1.0,INTER_CUBIC);
+		rectangle(original,face_i,CV_RGB(0,255,255),10);
+		int pos_x = max(face_i.tl().x - 10, 0);
+		int pos_y = max(face_i.tl().y - 10, 0);
+		putText(original,"",Point(pos_x,pos_y), FONT_HERSHEY_PLAIN,1.0,CV_RGB(0,255,0),2.0);
+	}
+	/*for(int i = 0; i < faces3.size(); i++) {
+		Rect face_i = faces3[i];
+		Mat face = gray(face_i);
+		Mat face_resized;
+		resize(face,face_resized,Size(im_width,im_height),1.0,1.0,INTER_CUBIC);
+		//rectangle(original,face_i,CV_RGB(200,100,100),10);
+		int pos_x = max(face_i.tl().x - 10, 0);
+		int pos_y = max(face_i.tl().y - 10, 0);
+		putText(original,"",Point(pos_x,pos_y), FONT_HERSHEY_PLAIN,1.0,CV_RGB(0,255,0),2.0);
+	}
+	for(int i = 0; i < faces4.size(); i++) {
+		Rect face_i = faces3[i];
+		Mat face = gray(face_i);
+		Mat face_resized;
+		resize(face,face_resized,Size(im_width,im_height),1.0,1.0,INTER_CUBIC);
+		//rectangle(original,face_i,CV_RGB(50,100,100),10);
+		int pos_x = max(face_i.tl().x - 10, 0);
+		int pos_y = max(face_i.tl().y - 10, 0);
+		putText(original,"",Point(pos_x,pos_y), FONT_HERSHEY_PLAIN,1.0,CV_RGB(0,255,0),2.0);
+	}*/
+	return original;
 }
