@@ -9,7 +9,7 @@ For Each subfolder in objSuperFolder.SubFolders
  Set objFolder = objFSO.GetFolder(subfolder.Path)
  Set colFiles = objFolder.Files
  For Each objFile in colFiles
-  if UCase(objFSO.GetExtensionName(objFile.name)) = "JPG" or UCase(objFSO.GetExtensionName(objFile.name)) = "PNG" then
+  if UCase(objFSO.GetExtensionName(objFile.name)) = "PNG" or UCase(objFSO.GetExtensionName(objFile.name)) = "PNG" then
    s = Split(objFile.Path,"\")
    i = mid(s(5),2)-1
    oStream.WriteText(objFile.Path & ";" & i & vbNewLine)

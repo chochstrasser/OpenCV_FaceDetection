@@ -227,16 +227,13 @@ int im_width;
 int im_height;
 Ptr<FaceRecognizer> model;
 string file_csv = "C:/Users/Chochstr/Pictures/att_faces/Myfileslist.txt";
+string filename = "C:/Users/Chochstr/Pictures/att_faces/s42/chase2.png";
 vector<Mat> images;
 vector<int> labels;
 CvCapture* capture;
 
-int Image_Detect() {	
-	//haar_cascade.load(cascade_alt);
-	haar_cascade2.load(cascade_alt2);
-	//haar_cascade3.load(cascade_default);
-	//haar_cascade4.load(cascade_alt_tree);
-	//lbp_cascade.load(lbpcascade_front);
+int Image_Detect() {
+	haar_cascade.load(cascade_alt2);
 	try {
 		read_csv(file_csv, images, labels);
 	} catch (Exception& e) {
@@ -245,20 +242,21 @@ int Image_Detect() {
 	}
 	im_width = images[0].rows;
 	im_height = images[0].cols;
-	model = createFisherFaceRecognizer();
+	model = createFisherFaceRecognizer(0,1000);
 	model->train(images, labels);
 	Mat frame;
-	string filename = "C:/Users/Chochstr/Pictures/faces.jpg";
 	while(1){
 		capture = cvCaptureFromCAM(-1);
-		//frame = imread(filename);
+		frame = imread(filename);
 		frame = cvQueryFrame(capture);
 		Mat dst = DetectFace(frame);
 		namedWindow(Window_name, CV_WINDOW_NORMAL);
 		imshow(Window_name, dst);
 		char c = waitKey(1);
-		if (c==27) break;
+		if (c >= 0) break;
 	}
+	cvReleaseCapture(&capture);
+	destroyWindow(Window_name);
 	return 0;
 }
 
@@ -267,65 +265,27 @@ Mat DetectFace(Mat frame) {
 	Mat gray;
 	string text;
 	cvtColor(original, gray, CV_BGR2GRAY);
-	equalizeHist(gray,gray);
-	vector<Rect> faces, faces2, faces3, faces4, faces5;
-	//haar_cascade.detectMultiScale(gray, faces);
-	haar_cascade2.detectMultiScale(gray, faces2, 2.1, 2, 0|CV_HAAR_SCALE_IMAGE, Size(30,30));
-	//haar_cascade3.detectMultiScale(gray, faces3);
-	//haar_cascade4.detectMultiScale(gray, faces4);
-	//haar_cascade5.detectMultiScale(gray,faces5);
-	//lbp_cascade.detectMultiScale(gray, faces2, 3, 1, 0|CASCADE_DO_CANNY_PRUNING,Size(30,30));
-	/*for(int i = 0; i < faces.size(); i++) {
+	equalizeHist(gray, gray);
+	vector<Rect> faces;
+	haar_cascade.detectMultiScale(gray, faces, 2, 2, 0 | CV_HAAR_SCALE_IMAGE);
+	for(int i = 0; i < faces.size(); i++) {
 		Rect face_i = faces[i];
 		Mat face = gray(face_i);
 		Mat face_resized;
-		resize(face,face_resized,Size(im_width,im_height),1.0,1.0,INTER_CUBIC);
-		rectangle(original,face_i,CV_RGB(0,255,0),10);
+		resize(face, face_resized, Size(im_width,im_height), 1.0, 1.0, INTER_CUBIC);
+		int predicted_label = -1;
+		double predicted_confidence = 0.0;
+		model->predict(face_resized, predicted_label, predicted_confidence);
+		rectangle(original, face_i, CV_RGB(255,255,255), 1);
+		string result;
+		if (predicted_label == 41)
+			result = "Chase";
+		else
+			result = format("Prediction = %d", predicted_label);
+		string box_text = result;
 		int pos_x = max(face_i.tl().x - 10, 0);
 		int pos_y = max(face_i.tl().y - 10, 0);
-		putText(original,"",Point(pos_x,pos_y), FONT_HERSHEY_PLAIN,1.0,CV_RGB(0,255,0),2.0);
-	}*/
-	for(int i = 0; i < faces2.size(); i++) {
-		Rect face_i = faces2[i];
-		Mat face = gray(face_i);
-		Mat face_resized;
-		resize(face,face_resized,Size(im_width,im_height),1.0,1.0,INTER_CUBIC);
-		int prediction = model->predict(face_resized);
-		rectangle(original,face_i,CV_RGB(0,255,255),10);
-		string box_text = format("Prediction = %d", prediction);
-		int pos_x = max(face_i.tl().x - 10, 0);
-		int pos_y = max(face_i.tl().y - 10, 0);
-		putText(original,box_text,Point(pos_x,pos_y), FONT_HERSHEY_PLAIN,1.0,CV_RGB(0,255,0),2.0);
+		putText(original, box_text, Point(pos_x,pos_y), FONT_HERSHEY_PLAIN, 1.0, CV_RGB(255,255,255), 1.0);
 	}
-	/*for(int i = 0; i < faces3.size(); i++) {
-		Rect face_i = faces3[i];
-		Mat face = gray(face_i);
-		Mat face_resized;
-		resize(face,face_resized,Size(im_width,im_height),1.0,1.0,INTER_CUBIC);
-		//rectangle(original,face_i,CV_RGB(200,100,100),10);
-		int pos_x = max(face_i.tl().x - 10, 0);
-		int pos_y = max(face_i.tl().y - 10, 0);
-		putText(original,"",Point(pos_x,pos_y), FONT_HERSHEY_PLAIN,1.0,CV_RGB(0,255,0),2.0);
-	}
-	for(int i = 0; i < faces4.size(); i++) {
-		Rect face_i = faces4[i];
-		Mat face = gray(face_i);
-		Mat face_resized;
-		resize(face,face_resized,Size(im_width,im_height),1.0,1.0,INTER_CUBIC);
-		//rectangle(original,face_i,CV_RGB(50,100,100),10);
-		int pos_x = max(face_i.tl().x - 10, 0);
-		int pos_y = max(face_i.tl().y - 10, 0);
-		putText(original,"",Point(pos_x,pos_y), FONT_HERSHEY_PLAIN,1.0,CV_RGB(0,255,0),2.0);
-	}
-	for(int i = 0; i < faces5.size(); i++) {
-		Rect face_i = faces5[i];
-		Mat face = gray(face_i);
-		Mat face_resized;
-		resize(face,face_resized,Size(im_width,im_height),1.0,1.0,INTER_CUBIC);
-		//rectangle(original,face_i,CV_RGB(50,100,100),10);
-		int pos_x = max(face_i.tl().x - 10, 0);
-		int pos_y = max(face_i.tl().y - 10, 0);
-		putText(original,"",Point(pos_x,pos_y), FONT_HERSHEY_PLAIN,1.0,CV_RGB(0,255,0),2.0);
-	}*/
 	return original;
 }

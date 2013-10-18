@@ -7,6 +7,7 @@
 int main() {
 	//Load_Image();
 	Image_Detect();
+	//SaveFace();
 	//Load_Video();
 	//DetectFace();
 	//FisherFace();
@@ -14,6 +15,7 @@ int main() {
 	//Saving_Video_Capture();
 	//Remap();
 	//Remap_Video();
+	//CropFace();
 
 	// Smoothing Images
 	//HomogeneousBlur();

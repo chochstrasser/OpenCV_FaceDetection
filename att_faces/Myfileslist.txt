@@ -8,15 +8,57 @@ C:\Users\Chochstr\Pictures\att_faces\s41\6.png;40
 C:\Users\Chochstr\Pictures\att_faces\s41\7.png;40
 C:\Users\Chochstr\Pictures\att_faces\s41\8.png;40
 C:\Users\Chochstr\Pictures\att_faces\s41\9.png;40
+C:\Users\Chochstr\Pictures\att_faces\s42\chase1 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase1 (3).png;41
 C:\Users\Chochstr\Pictures\att_faces\s42\chase1.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase10 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase10 (3).png;41
 C:\Users\Chochstr\Pictures\att_faces\s42\chase10.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase11 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase11.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase12 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase12.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase13 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase13.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase14 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase14.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase15 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase15.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase16 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase16.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase17 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase17.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase18 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase18.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase19 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase19.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase2 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase2 (3).png;41
 C:\Users\Chochstr\Pictures\att_faces\s42\chase2.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase20 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase20.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase21 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase21.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase3 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase3 (3).png;41
 C:\Users\Chochstr\Pictures\att_faces\s42\chase3.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase4 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase4 (3).png;41
 C:\Users\Chochstr\Pictures\att_faces\s42\chase4.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase5 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase5 (3).png;41
 C:\Users\Chochstr\Pictures\att_faces\s42\chase5.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase6 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase6 (3).png;41
 C:\Users\Chochstr\Pictures\att_faces\s42\chase6.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase7 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase7 (3).png;41
 C:\Users\Chochstr\Pictures\att_faces\s42\chase7.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase8 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase8 (3).png;41
 C:\Users\Chochstr\Pictures\att_faces\s42\chase8.png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase9 (2).png;41
+C:\Users\Chochstr\Pictures\att_faces\s42\chase9 (3).png;41
 C:\Users\Chochstr\Pictures\att_faces\s42\chase9.png;41
 C:\Users\Chochstr\Pictures\att_faces\s43\zach1.png;42
 C:\Users\Chochstr\Pictures\att_faces\s43\zach10.png;42
@@ -28,4 +70,23 @@ C:\Users\Chochstr\Pictures\att_faces\s43\zach6.png;42
 C:\Users\Chochstr\Pictures\att_faces\s43\zach7.png;42
 C:\Users\Chochstr\Pictures\att_faces\s43\zach8.png;42
 C:\Users\Chochstr\Pictures\att_faces\s43\zach9.png;42
-C:\Users\Chochstr\Pictures\att_faces\s44\Beau1.JPG;43
+C:\Users\Chochstr\Pictures\att_faces\s44\pavel1.png;43
+C:\Users\Chochstr\Pictures\att_faces\s44\pavel10.png;43
+C:\Users\Chochstr\Pictures\att_faces\s44\pavel2.png;43
+C:\Users\Chochstr\Pictures\att_faces\s44\pavel3.png;43
+C:\Users\Chochstr\Pictures\att_faces\s44\pavel4.png;43
+C:\Users\Chochstr\Pictures\att_faces\s44\pavel5.png;43
+C:\Users\Chochstr\Pictures\att_faces\s44\pavel6.png;43
+C:\Users\Chochstr\Pictures\att_faces\s44\pavel7.png;43
+C:\Users\Chochstr\Pictures\att_faces\s44\pavel8.png;43
+C:\Users\Chochstr\Pictures\att_faces\s44\pavel9.png;43
+C:\Users\Chochstr\Pictures\att_faces\s45\julian0.png;44
+C:\Users\Chochstr\Pictures\att_faces\s45\julian1.png;44
+C:\Users\Chochstr\Pictures\att_faces\s45\julian2.png;44
+C:\Users\Chochstr\Pictures\att_faces\s45\julian3.png;44
+C:\Users\Chochstr\Pictures\att_faces\s45\julian4.png;44
+C:\Users\Chochstr\Pictures\att_faces\s45\julian5.png;44
+C:\Users\Chochstr\Pictures\att_faces\s45\julian6.png;44
+C:\Users\Chochstr\Pictures\att_faces\s45\julian7.png;44
+C:\Users\Chochstr\Pictures\att_faces\s45\julian8.png;44
+C:\Users\Chochstr\Pictures\att_faces\s45\julian9.png;44

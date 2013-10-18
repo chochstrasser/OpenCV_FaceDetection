@@ -1,4 +1,3 @@
-
 // load image from file
 int Load_Image();
 int Image_Detect();
@@ -11,6 +10,10 @@ int HomogeneousBlur();
 int GaussianBlur();
 int MedianBlur();
 int BilateralFilter();
+
+//
+void CropFace();
+void SaveFace();
 
 //
 int Eroding();
