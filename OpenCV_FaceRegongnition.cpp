@@ -36,6 +36,7 @@ string file_csv = "C:/Users/Chochstr/Pictures/classmates_faces/Myfileslist.txt";
 vector<Mat> images;
 vector<int> labels;
 CvCapture* capture;
+int prev_predict, predict_series;
 
 
 static void read_csv(const string& filename, vector<Mat>& images, vector<int>& labels, char separator = ';') {
@@ -65,29 +66,40 @@ Mat DetectFace(Mat frame) {
 	equalizeHist(gray, gray);
 	vector<Rect> faces;
 	bool check = true;
-	haar_cascade.detectMultiScale(gray, faces, 1.4, 4, CV_HAAR_DO_CANNY_PRUNING,Size(50,50));
+	int predicted_label = -1;
+	double predicted_confidence = 0.0;
+	Rect face_i;
+	Mat face, face_resized;
+	string result, box_text;
+	haar_cascade.detectMultiScale(gray, faces, 1.3, 3, CV_HAAR_SCALE_IMAGE | CV_HAAR_DO_CANNY_PRUNING, Size(30,30));
 	for(int i = 0; i < faces.size(); i++) {
-		Rect face_i = faces[i];
-		Mat face = gray(face_i);
-		Mat face_resized;
+		face_i = faces[i];
+		face = gray(face_i);
 		resize(face, face_resized, Size(im_width,im_height), 1.0, 1.0, INTER_CUBIC);
-		int predicted_label = -1;
-		double predicted_confidence = 0.0;
 		model->predict(face_resized, predicted_label, predicted_confidence);
 		rectangle(original, face_i, CV_RGB(255,255,255), 1);
-		string result;
-		if (predicted_label == 1)
-			result = "Chase";
-		else if (predicted_label == -1)
-			result = "Unknown";
-		else if (predicted_label == 0)
-			result = "Todd";
-		else
-			result = format("Prediction = %d", predicted_label);
-		string box_text = result;
-		int pos_x = max(face_i.tl().x - 10, 0);
-		int pos_y = max(face_i.tl().y - 10, 0);
-		putText(original, box_text, Point(pos_x,pos_y), FONT_HERSHEY_PLAIN, 1.0, CV_RGB(255,255,255), 1.0);
+		if (predicted_label == prev_predict) predict_series++;
+		else predict_series = 0;
+		prev_predict = predicted_label;
+		if (predict_series >= 5) {
+			if (predicted_label == 1)
+				result = "Chase";
+			else if (predicted_label == -1)
+				result = "Unknown";
+			else if (predicted_label == 0)
+				result = "Todd";
+			else
+				result = format("Prediction = %d", predicted_label);
+			box_text = result;
+			int pos_x = max(face_i.tl().x - 10, 0);
+			int pos_y = max(face_i.tl().y - 10, 0);
+			putText(original, box_text, Point(pos_x,pos_y), FONT_HERSHEY_PLAIN, 1.0, CV_RGB(255,255,255), 1.0);
+		}
+		/*char c = -1;
+		while (c == -1) {
+			c = waitKey(33);
+			if (c != -1) break;
+		}*/
 	}
 	return original;
 }
@@ -105,12 +117,23 @@ int Image_Detect() {
 	model = createFisherFaceRecognizer(0,1000);
 	model->train(images, labels);
 	Mat frame;
+	prev_predict = -1;
 	while(1){
 		capture = cvCaptureFromCAM(-1);
 		frame = cvQueryFrame(capture);
-		Mat dst;
-		dst = DetectFace(frame);
+		Mat dst = DetectFace(frame);
 		namedWindow(Window_name, CV_WINDOW_AUTOSIZE);
+		Mat map_x;
+		map_x.create(dst.size(), CV_32FC1);
+		Mat map_y;
+		map_y.create(dst.size(), CV_32FC1);
+		for( int j = 0; j < dst.rows; j++ ) {
+			for( int i = 0; i < dst.cols; i++ ) {
+				map_x.at<float>(j,i) = dst.cols - i;
+				map_y.at<float>(j,i) = j;
+			}
+		}
+		remap(dst, dst, map_x, map_y, CV_INTER_LINEAR, BORDER_CONSTANT, Scalar(0,0,0));
 		imshow(Window_name, dst);
 		char c = waitKey(1);
 		if (c >= 0) break;

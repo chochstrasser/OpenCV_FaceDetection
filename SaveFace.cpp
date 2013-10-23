@@ -30,7 +30,7 @@ void SaveFace() {
 		cvtColor(dst, gray, CV_BGR2GRAY);
 		equalizeHist(gray,gray);
 		vector<Rect> faces;
-		haar_save.detectMultiScale(gray, faces, 1.4, 4, CV_HAAR_DO_CANNY_PRUNING,Size(50,50));
+		haar_save.detectMultiScale(gray, faces, 1.3, 3, CV_HAAR_FIND_BIGGEST_OBJECT | CV_HAAR_SCALE_IMAGE | CV_HAAR_DO_CANNY_PRUNING, Size(30,30));
 		for(int i = 0; i < faces.size(); i++) {
 			Rect face_i = faces[i];
 			Mat face = gray(face_i);
