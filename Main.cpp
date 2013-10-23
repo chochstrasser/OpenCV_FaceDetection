@@ -7,7 +7,7 @@
 int main() {
 	//Load_Image();
 	//SaveFace();
-	Image_Detect();
+	//Image_Detect();
 	//Load_Video();
 	//Saving_Video_Capture();
 	//Remap();

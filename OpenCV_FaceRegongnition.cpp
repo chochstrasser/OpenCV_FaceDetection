@@ -64,7 +64,8 @@ Mat DetectFace(Mat frame) {
 	cvtColor(original, gray, CV_BGR2GRAY);
 	equalizeHist(gray, gray);
 	vector<Rect> faces;
-	haar_cascade.detectMultiScale(gray, faces, 2, 2, 0 | CV_HAAR_SCALE_IMAGE);
+	bool check = true;
+	haar_cascade.detectMultiScale(gray, faces, 1.4, 4, CV_HAAR_DO_CANNY_PRUNING,Size(50,50));
 	for(int i = 0; i < faces.size(); i++) {
 		Rect face_i = faces[i];
 		Mat face = gray(face_i);
@@ -75,8 +76,12 @@ Mat DetectFace(Mat frame) {
 		model->predict(face_resized, predicted_label, predicted_confidence);
 		rectangle(original, face_i, CV_RGB(255,255,255), 1);
 		string result;
-		if (predicted_label == 41)
+		if (predicted_label == 1)
 			result = "Chase";
+		else if (predicted_label == -1)
+			result = "Unknown";
+		else if (predicted_label == 0)
+			result = "Todd";
 		else
 			result = format("Prediction = %d", predicted_label);
 		string box_text = result;
@@ -103,8 +108,9 @@ int Image_Detect() {
 	while(1){
 		capture = cvCaptureFromCAM(-1);
 		frame = cvQueryFrame(capture);
-		Mat dst = DetectFace(frame);
-		namedWindow(Window_name, CV_WINDOW_NORMAL);
+		Mat dst;
+		dst = DetectFace(frame);
+		namedWindow(Window_name, CV_WINDOW_AUTOSIZE);
 		imshow(Window_name, dst);
 		char c = waitKey(1);
 		if (c >= 0) break;
