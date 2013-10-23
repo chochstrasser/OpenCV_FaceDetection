@@ -12,17 +12,17 @@
 using namespace std;
 using namespace cv;
 
-CascadeClassifier haar_save;
-
 void SaveFace() {	
+	CascadeClassifier haar_save;
 	haar_save.load("C:/Users/Chochstr/My Programs/opencv/data/haarcascades/haarcascade_frontalface_alt2.xml");
 	string person;
 	int count = 1;
 	cout << "Please enter your name: ";
 	getline(cin,person);
 	Mat frame;
-	while(1){
-		CvCapture* capture = cvCaptureFromCAM(-1);
+	CvCapture* capture;
+	while(count < 100){
+		capture = cvCaptureFromCAM(-1);
 		frame = cvQueryFrame(capture);
 		Mat dst = frame.clone();
 		Mat gray;
@@ -39,17 +39,15 @@ void SaveFace() {
 			rectangle(dst, face_i, CV_RGB(255,255,255), 5);
 			int pos_x = max(face_i.tl().x - 10, 0);
 			int pos_y = max(face_i.tl().y - 10, 0);
-			putText(dst, "Good", Point(pos_x,pos_y), FONT_HERSHEY_PLAIN, 1.0, CV_RGB(255,255,255), 2.0);
-			if ((char) waitKey(1) == 32) {
-				ofstream f;
-				string filename = "C:/Users/Chochstr/Pictures/New folder/" + person + format("%d",count) + ".png";
-				imwrite(filename, face_resized);
-				count++;
-			}
+			putText(dst, to_string(count), Point(pos_x,pos_y), FONT_HERSHEY_PLAIN, 1.0, CV_RGB(255,255,255), 2.0);
+			string filename = "C:/Users/Chochstr/Pictures/New folder/" + person + format("%d",count) + ".png";
+			imwrite(filename, face_resized);
+			count++;
 		}
 		namedWindow("Database Face Builder", CV_WINDOW_NORMAL);
 		imshow("Database Face Builder", dst);
-		char c = waitKey(1);
-		if (c==27) break;
+		waitKey(10);
 	}
+	cvReleaseCapture(&capture);
+	destroyWindow("Database Face Builder");
 }

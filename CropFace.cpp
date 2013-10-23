@@ -14,7 +14,7 @@ using namespace cv;
 CascadeClassifier haar;
 
 void CropFace() {
-    string fileName = string("C:/Users/Chochstr/Pictures/att_faces/Myfileslist.txt");
+    string fileName = string("C:/Users/Chochstr/Pictures/classmates_faces/Myfileslist.txt");
 	Mat frame = imread(fileName);
 	int im_width = frame.rows;
 	int im_height = frame.cols;

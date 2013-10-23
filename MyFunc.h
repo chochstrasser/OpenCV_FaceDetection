@@ -11,11 +11,11 @@ int GaussianBlur();
 int MedianBlur();
 int BilateralFilter();
 
-//
+// Croping face and saving face
 void CropFace();
 void SaveFace();
 
-//
+// Video Stuff
 int Eroding();
 int Dilating();
 int Saving_Video_Capture();
@@ -26,12 +26,6 @@ int Morph_Close();
 int Morph_Gradient();
 int Morph_TopHat();
 int Morph_BlackHat();
-
-// Object Detection
-int DetectFace();
-
-int FisherFace();
-int LBPH_Face();
 
 // Re-Mapping
 int Remap();
