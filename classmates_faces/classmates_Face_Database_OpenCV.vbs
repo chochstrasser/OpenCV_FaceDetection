@@ -5,13 +5,14 @@ Dim oStream
 Set oStream = CreateObject("ADODB.Stream")
 oStream.CharSet = "utf-8"
 oStream.Open
+i = 0
 For Each subfolder in objSuperFolder.SubFolders
  Set objFolder = objFSO.GetFolder(subfolder.Path)
  Set colFiles = objFolder.Files
+ i = i + 1
  For Each objFile in colFiles
   if UCase(objFSO.GetExtensionName(objFile.name)) = "PNG" then
    s = Split(objFile.Path,"\")
-   i = mid(s(5),2)-1
    oStream.WriteText(objFile.Path & ";" & i & vbNewLine)
    'obj.Writeline(objFile.Path & ";" & i)
   End If

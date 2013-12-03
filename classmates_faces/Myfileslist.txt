@@ -1,451 +1,507 @@
-﻿C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd1.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd10.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd11.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd12.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd13.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd14.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd15.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd16.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd17.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd18.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd19.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd2.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd20.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd21.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd22.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd23.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd24.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd25.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd26.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd27.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd28.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd29.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd3.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd30.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd31.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd32.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd33.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd34.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd35.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd36.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd37.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd38.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd39.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd4.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd40.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd41.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd42.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd43.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd44.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd45.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd46.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd47.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd48.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd49.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd5.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd50.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd51.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd52.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd53.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd54.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd55.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd56.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd57.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd58.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd59.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd6.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd60.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd61.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd62.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd63.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd64.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd65.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd66.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd67.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd68.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd69.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd7.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd70.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd71.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd72.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd73.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd74.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd75.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd76.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd77.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd78.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd79.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd8.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd80.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd81.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd82.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd83.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd84.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd85.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd86.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd87.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd88.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd89.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd9.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd90.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd91.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd92.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd93.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd94.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd95.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd96.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd97.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd98.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s1\Todd99.png;0
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase10.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase11.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase12.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase13.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase14.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase15.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase16.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase17.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase18.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase19.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase2.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase20.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase21.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase22.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase23.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase24.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase25.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase26.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase27.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase28.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase29.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase3.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase30.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase31.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase32.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase33.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase34.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase35.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase36.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase37.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase38.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase39.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase4.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase40.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase41.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase42.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase43.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase44.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase45.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase46.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase47.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase48.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase49.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase5.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase50.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase51.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase52.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase53.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase54.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase55.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase56.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase57.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase58.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase59.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase6.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase60.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase61.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase62.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase63.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase64.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase65.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase66.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase67.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase68.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase69.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase7.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase70.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase71.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase72.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase73.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase74.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase75.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase76.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase77.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase78.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase79.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase8.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase80.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase81.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase82.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase83.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase84.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase85.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase86.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase87.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase88.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase89.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase9.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase90.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase91.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase92.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase93.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase94.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase95.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase96.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase97.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase98.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s2\chase99.png;1
-C:\Users\Chochstr\Pictures\classmates_faces\s3\zach1.png;2
-C:\Users\Chochstr\Pictures\classmates_faces\s3\zach10.png;2
-C:\Users\Chochstr\Pictures\classmates_faces\s3\zach2.png;2
-C:\Users\Chochstr\Pictures\classmates_faces\s3\zach3.png;2
-C:\Users\Chochstr\Pictures\classmates_faces\s3\zach4.png;2
-C:\Users\Chochstr\Pictures\classmates_faces\s3\zach5.png;2
-C:\Users\Chochstr\Pictures\classmates_faces\s3\zach6.png;2
-C:\Users\Chochstr\Pictures\classmates_faces\s3\zach7.png;2
-C:\Users\Chochstr\Pictures\classmates_faces\s3\zach8.png;2
-C:\Users\Chochstr\Pictures\classmates_faces\s3\zach9.png;2
-C:\Users\Chochstr\Pictures\classmates_faces\s4\pavel1.png;3
-C:\Users\Chochstr\Pictures\classmates_faces\s4\pavel10.png;3
-C:\Users\Chochstr\Pictures\classmates_faces\s4\pavel2.png;3
-C:\Users\Chochstr\Pictures\classmates_faces\s4\pavel3.png;3
-C:\Users\Chochstr\Pictures\classmates_faces\s4\pavel4.png;3
-C:\Users\Chochstr\Pictures\classmates_faces\s4\pavel5.png;3
-C:\Users\Chochstr\Pictures\classmates_faces\s4\pavel6.png;3
-C:\Users\Chochstr\Pictures\classmates_faces\s4\pavel7.png;3
-C:\Users\Chochstr\Pictures\classmates_faces\s4\pavel8.png;3
-C:\Users\Chochstr\Pictures\classmates_faces\s4\pavel9.png;3
-C:\Users\Chochstr\Pictures\classmates_faces\s5\julian0.png;4
-C:\Users\Chochstr\Pictures\classmates_faces\s5\julian1.png;4
-C:\Users\Chochstr\Pictures\classmates_faces\s5\julian2.png;4
-C:\Users\Chochstr\Pictures\classmates_faces\s5\julian3.png;4
-C:\Users\Chochstr\Pictures\classmates_faces\s5\julian4.png;4
-C:\Users\Chochstr\Pictures\classmates_faces\s5\julian5.png;4
-C:\Users\Chochstr\Pictures\classmates_faces\s5\julian6.png;4
-C:\Users\Chochstr\Pictures\classmates_faces\s5\julian7.png;4
-C:\Users\Chochstr\Pictures\classmates_faces\s5\julian8.png;4
-C:\Users\Chochstr\Pictures\classmates_faces\s5\julian9.png;4
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro1.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro10.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro11.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro12.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro13.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro14.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro15.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro16.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro17.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro18.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro19.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro2.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro20.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro21.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro22.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro23.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro24.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro25.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro26.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro3.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro4.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro5.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro6.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro7.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro8.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s6\Leandro9.png;5
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac1.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac10.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac11.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac12.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac13.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac14.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac15.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac16.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac17.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac18.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac19.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac2.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac20.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac21.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac22.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac23.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac24.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac25.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac26.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac27.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac28.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac29.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac3.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac30.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac31.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac32.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac33.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac34.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac35.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac36.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac37.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac38.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac39.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac4.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac40.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac41.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac42.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac43.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac44.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac45.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac46.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac47.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac48.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac49.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac5.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac50.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac51.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac52.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac53.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac54.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac55.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac56.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac57.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac58.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac59.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac6.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac60.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac61.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac62.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac63.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac64.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac65.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac66.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac67.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac68.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac69.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac7.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac70.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac71.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac72.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac73.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac74.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac75.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac76.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac77.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac78.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac79.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac8.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac80.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac81.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac82.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac83.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac84.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac85.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac86.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac87.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac88.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac89.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac9.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac90.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac91.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac92.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac93.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac94.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac95.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac96.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac97.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac98.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s7\Mac99.png;6
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al1.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al10.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al11.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al12.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al13.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al14.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al15.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al16.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al17.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al18.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al19.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al2.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al20.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al21.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al22.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al23.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al24.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al25.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al26.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al27.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al28.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al29.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al3.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al30.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al31.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al32.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al33.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al34.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al35.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al36.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al37.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al38.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al39.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al4.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al40.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al41.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al42.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al43.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al44.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al45.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al46.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al47.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al48.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al49.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al5.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al50.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al51.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al52.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al53.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al54.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al55.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al56.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al57.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al58.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al59.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al6.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al60.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al61.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al62.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al63.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al64.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al65.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al66.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al67.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al68.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al69.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al7.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al70.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al71.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al72.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al73.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al74.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al75.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al76.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al77.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al78.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al79.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al8.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al80.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al81.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al82.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al83.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al84.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al85.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al86.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al87.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al88.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al89.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al9.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al90.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al91.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al92.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al93.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al94.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al95.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al96.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al97.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al98.png;7
-C:\Users\Chochstr\Pictures\classmates_faces\s8\Al99.png;7
+﻿C:\Users\Chochstr\Pictures\classmates_faces\chase\0.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\1.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\10.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\100.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\101.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\11.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\12.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\13.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\14.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\15.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\16.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\17.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\18.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\19.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\2.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\20.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\21.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\22.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\23.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\24.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\25.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\26.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\27.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\28.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\29.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\3.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\30.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\31.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\32.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\33.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\34.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\35.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\36.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\37.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\38.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\39.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\4.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\40.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\41.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\42.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\43.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\44.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\45.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\46.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\47.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\48.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\49.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\5.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\50.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\51.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\52.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\53.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\54.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\55.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\56.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\57.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\58.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\59.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\6.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\60.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\61.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\62.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\63.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\64.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\65.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\66.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\67.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\68.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\69.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\7.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\70.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\71.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\72.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\73.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\74.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\75.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\76.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\77.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\78.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\79.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\8.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\80.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\81.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\82.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\83.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\84.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\85.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\86.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\87.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\88.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\89.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\9.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\90.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\91.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\92.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\93.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\94.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\95.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\96.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\97.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\98.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\chase\99.png;1
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\0.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\1.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\10.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\100.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\11.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\12.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\13.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\14.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\15.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\16.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\17.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\18.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\19.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\2.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\20.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\21.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\22.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\23.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\24.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\25.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\26.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\27.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\28.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\29.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\3.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\30.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\31.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\32.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\33.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\34.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\35.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\36.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\37.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\38.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\39.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\4.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\40.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\41.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\42.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\43.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\44.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\45.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\46.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\47.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\48.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\49.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\5.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\50.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\51.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\52.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\53.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\54.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\55.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\56.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\57.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\58.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\59.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\6.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\60.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\61.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\62.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\63.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\64.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\65.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\66.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\67.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\68.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\69.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\7.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\70.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\71.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\72.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\73.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\74.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\75.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\76.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\77.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\78.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\79.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\8.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\80.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\81.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\82.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\83.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\84.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\85.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\86.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\87.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\88.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\89.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\9.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\90.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\91.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\92.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\93.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\94.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\95.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\96.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\97.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\98.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Classmate 1\99.png;2
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\0.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\1.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\10.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\100.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\11.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\12.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\13.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\14.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\15.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\16.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\17.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\18.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\19.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\2.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\20.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\21.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\22.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\23.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\24.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\25.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\26.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\27.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\28.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\29.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\3.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\30.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\31.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\32.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\33.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\34.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\35.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\36.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\37.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\38.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\39.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\4.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\40.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\41.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\42.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\43.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\44.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\45.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\46.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\47.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\48.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\49.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\5.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\50.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\51.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\52.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\53.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\54.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\55.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\56.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\57.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\58.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\59.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\6.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\60.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\61.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\62.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\63.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\64.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\65.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\66.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\67.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\68.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\69.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\7.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\70.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\71.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\72.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\73.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\74.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\75.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\76.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\77.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\78.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\79.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\8.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\80.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\81.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\82.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\83.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\84.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\85.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\86.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\87.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\88.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\89.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\9.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\90.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\91.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\92.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\93.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\94.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\95.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\96.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\97.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\98.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Julie Jacobs\99.png;3
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\0.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\1.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\10.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\100.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\11.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\12.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\13.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\14.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\15.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\16.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\17.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\18.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\19.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\2.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\20.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\21.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\22.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\23.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\24.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\25.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\26.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\27.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\28.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\29.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\3.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\30.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\31.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\32.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\33.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\34.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\35.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\36.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\37.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\38.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\39.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\4.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\40.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\41.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\42.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\43.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\44.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\45.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\46.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\47.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\48.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\49.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\5.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\50.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\51.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\52.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\53.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\54.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\55.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\56.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\57.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\58.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\59.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\6.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\60.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\61.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\62.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\63.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\64.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\65.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\66.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\67.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\68.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\69.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\7.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\70.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\71.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\72.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\73.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\74.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\75.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\76.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\77.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\78.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\79.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\8.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\80.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\81.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\82.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\83.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\84.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\85.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\86.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\87.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\88.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\89.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\9.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\90.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\91.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\92.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\93.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\94.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\95.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\96.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\97.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\98.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Pavel\99.png;4
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\0.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\1.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\10.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\100.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\101.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\11.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\12.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\13.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\14.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\15.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\16.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\17.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\18.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\19.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\2.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\20.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\21.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\22.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\23.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\24.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\25.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\26.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\27.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\28.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\29.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\3.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\30.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\31.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\32.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\33.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\34.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\35.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\36.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\37.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\38.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\39.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\4.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\40.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\41.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\42.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\43.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\44.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\45.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\46.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\47.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\48.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\49.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\5.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\50.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\51.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\52.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\53.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\54.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\55.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\56.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\57.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\58.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\59.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\6.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\60.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\61.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\62.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\63.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\64.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\65.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\66.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\67.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\68.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\69.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\7.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\70.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\71.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\72.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\73.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\74.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\75.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\76.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\77.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\78.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\79.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\8.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\80.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\81.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\82.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\83.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\84.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\85.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\86.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\87.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\88.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\89.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\9.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\90.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\91.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\92.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\93.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\94.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\95.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\96.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\97.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\98.png;5
+C:\Users\Chochstr\Pictures\classmates_faces\Todd\99.png;5
